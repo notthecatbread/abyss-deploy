@@ -1,6 +1,0 @@
-[submodule "public/sdk"]
-	path = public/sdk
-	url = https://github.com/ProxyHaven/sdk
-[submodule "public/aero"]
-	path = public/aero
-	url = https://github.com/Abyss-Services/Backend-Aero
